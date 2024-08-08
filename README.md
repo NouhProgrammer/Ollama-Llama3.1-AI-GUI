@@ -3,7 +3,7 @@ This is a python script that I wrote to enhance the experience with Ollama Local
 2. Llama 3.1 AI using `ollama pull llama3.1`
 
 The requirements for using these scripts are simple:
-1. Python 3.x installed
+1. Python 3.x installed: https://python.org/downloads
 2. At least 5GB of storage
 3. Internet (Only for the first run)
 
