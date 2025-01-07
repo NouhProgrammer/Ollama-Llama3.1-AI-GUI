@@ -9,3 +9,5 @@ The requirements for using these scripts are simple:
 
 This AI is much safer than Cloud-AI such as ChatGPT, because the AI is installed on your computer rather than online.
 Hope you enjoy using this AI.
+
+Note: I am not the owner of ollama.
